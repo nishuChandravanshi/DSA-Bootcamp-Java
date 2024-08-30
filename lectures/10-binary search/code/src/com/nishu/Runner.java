@@ -6,16 +6,16 @@ import java.util.PriorityQueue;
 
 public class Runner {
     public static void main(String[] args) throws Exception {
-//        Heap<Integer> heap = new Heap<>();
-//
-//        heap.insert(10);
-//        heap.insert(20);
-////        heap.insert(15);
-//        System.out.println(heap.remove());
-//        System.out.println(heap.remove());
-//        System.out.println(heap.remove());
+        Heap<Integer> heap = new Heap<>();
 
-//
+        heap.insert(10);
+        heap.insert(20);
+//        heap.insert(15);
+        System.out.println(heap.remove());
+        System.out.println(heap.remove());
+        System.out.println(heap.remove());
+
+
 //        Heap<String> heap = new Heap<>();
 //
 //        heap.insert("bi");
